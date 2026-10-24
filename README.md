@@ -22,9 +22,22 @@ A floating widget that lets you customize the colours of your desktop wallpaper 
 - Draggable.
 - **Esc** hides the widget.
 ## Themes
-![Dark](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/01%20Dark.png)![Light](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/02%20Light.png)
-
-![OLED Black](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/03%20OLED%20Black.png)
+<table>
+  <tr>
+    <td align="center">
+      <img src="themes/01%20Dark.png" width="250"><br>
+      <b>Dark</b>
+    </td>
+    <td align="center">
+      <img src="themes/02%20Light.png" width="250"><br>
+      <b>Light</b>
+    </td>
+    <td align="center">
+      <img src="themes/03%20OLED%20Black.png" width="250"><br>
+      <b>OLED Black</b>
+    </td>
+  </tr>
+</table>
 ![Nord](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/04%20Nord.png)
 ![Gruvbox](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/05%20Gruvbox.png)
 ![Solarized Dark](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/06%20Solarized%20Dark.png)
