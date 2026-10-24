@@ -33,24 +33,84 @@ A floating widget that lets you customize the colours of your desktop wallpaper 
       <b>Light</b>
     </td>
     <td align="center">
+      <img src="themes/19%20System.png" width="250"><br>
+      <b>System</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="themes/03%20OLED%20Black.png" width="250"><br>
       <b>OLED Black</b>
     </td>
+    <td align="center">
+      <img src="themes/04%20Nord.png" width="250"><br>
+      <b>Nord</b>
+    </td>
+    <td align="center">
+      <img src="themes/05%20Gruvbox.png" width="250"><br>
+      <b>Gruvbox</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="themes/06%20Solarized%20Dark.png" width="250"><br>
+      <b>Solarized Dark</b>
+    </td>
+    <td align="center">
+      <img src="themes/07%20Dracula.png" width="250"><br>
+      <b>Dracula</b>
+    </td>
+    <td align="center">
+      <img src="themes/08%20Tokyo%20Night.png" width="250"><br>
+      <b>Tokyo Night</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="themes/09%20Catpuccin%20Mocha.png" width="250"><br>
+      <b>Catpuccin Mocha</b>
+    </td>
+    <td align="center">
+      <img src="themes/10%20Ros%C3%A9%20Pine.png" width="250"><br>
+      <b>Rosé Pine</b>
+    </td>
+    <td align="center">
+      <img src="themes/11%20Kanagawa.png" width="250"><br>
+      <b>Kanagawa</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="themes/12%20Everforest.png" width="250"><br>
+      <b>Everforest</b>
+    </td>
+    <td align="center">
+      <img src="themes/13%20Midnight.png" width="250"><br>
+      <b>Midnight</b>
+    </td>
+    <td align="center">
+      <img src="themes/14%20Solarized%20Light.png" width="250"><br>
+      <b>Solarized Light</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="themes/15%20Github%20Light.png" width="250"><br>
+      <b>Github Light</b>
+    </td>
+    <td align="center">
+      <img src="themes/16%20Catpuccin%20Latte.png" width="250"><br>
+      <b>Catpuccin Latte</b>
+    </td>
+    <td align="center">
+      <img src="themes/17%20Gruvbox%20Light.png" width="250"><br>
+      <b>Gruvbox Light</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="themes/18%20Sepia.png" width="250"><br>
+      <b>Sepia</b>
+    </td>
   </tr>
 </table>
-![Nord](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/04%20Nord.png)
-![Gruvbox](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/05%20Gruvbox.png)
-![Solarized Dark](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/06%20Solarized%20Dark.png)
-![Dracula](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/07%20Dracula.png)
-![Tokyo Night](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/08%20Tokyo%20Night.png)
-![Catpuccin Mocha](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/09%20Catpuccin%20Mocha.png)
-![Rosé Pine](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/10%20Ros%C3%A9%20Pine.png)
-![Kanagawa](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/11%20Kanagawa.png)
-![Everforest](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/12%20Everforest.png)
-![Midnight](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/13%20Midnight.png)
-![Solarized Light](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/14%20Solarized%20Light.png)
-![Github Light](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/15%20Github%20Light.png)
-![Catpuccin Latte](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/16%20Catpuccin%20Latte.png)
-![Gruvbox Light](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/17%20Gruvbox%20Light.png)
-![Sepia](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/18%20Sepia.png)
-![System](https://github.com/PandemonicGameDev/HSVWallpaperAdjuster/blob/main/themes/19%20System.png)
